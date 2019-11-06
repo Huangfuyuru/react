@@ -1,0 +1,30 @@
+.header a{
+    margin-right:20px
+}
+
+.tab{
+    background-color: black;
+ 
+}
+.tab a{
+    margin-right:20px;
+    color:white;
+    text-decoration: none;
+
+}
+.content img{
+    height: 30px;
+    width: 30px;
+}
+.content li{
+    list-style:none;
+    display: inline-block;
+    border:1px solid black;
+    padding:5px 10px
+    
+}
+.content a{
+    text-decoration: none;
+    color:black
+    
+}
